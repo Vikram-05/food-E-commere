@@ -1,0 +1,50 @@
+[
+    {
+        "img": "https://img.freepik.com/free-photo/big-sandwich-hamburger-burger-with-beef-red-onion-tomato-fried-bacon_2829-5398.jpg?w=740&t=st=1728561382~exp=1728561982~hmac=10db2f7752a31a8d9491ad45c7e050d96561c4c9d39a1e913f73594a70ff18fe",
+        "categoryName" : "Burger"
+    },
+    {
+        "img": "https://images7.alphacoders.com/596/596343.jpg",
+        "categoryName" : "pizza"
+    },
+    {
+        "img": "https://static.toiimg.com/photo/74062909.cms",
+        "categoryName" : "Biryani"
+    },
+    {
+        "img": "https://www.thespruceeats.com/thmb/rAc7PkGDKqBlSmqAXHFTdSfh8bc=/2121x1414/filters:fill(auto,1)/GettyImages-618764348-5c829cb746e0fb0001cbf4b4.jpg",
+        "categoryName" : "Parantha"
+    },
+    {
+        "img": "https://img.freepik.com/premium-photo/chole-bhature-spicy-chick-peas-curry-also-known-as-chole-channa-masala-is-traditional-north-indian-main-course-recipe-usually-served-with-fried-puri-bhature-selective-focus_726363-296.jpg?w=2000",
+        "categoryName" : "Chole Bhature"
+    },
+    {
+        "img": "https://recipes.timesofindia.com/thumb/53908858.cms?imgsize=247577&width=800&height=800",
+        "categoryName" : "Dhokla"
+    },
+    {
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2020/04/Kerala-Egg-Curry-2.jpg",
+        "categoryName" : "Egg Curry"
+    },
+    {
+        "img": "https://saibabatravels.com/wp-content/uploads/2020/01/falooda-photo.jpg",
+        "categoryName" : "Falooda"
+    },
+    {
+        "img": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Aarti_Sharma/Gol_Gappa_Chaat.jpg",
+        "categoryName" : "Gol Gappe"
+    },
+    {
+        "img": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2018/jan-5/Carrot_Halwa_Recipe-0834.jpg",
+        "categoryName" : "Halwa"
+    },
+    {
+        "img": "https://th.bing.com/th/id/OIP.rgMN4z_ovSmzIw3jAi0sZwHaE7?w=509&h=339&rs=1&pid=ImgDetMain",
+        "categoryName" : "Idli Sambhar"
+    },
+    {
+        "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/03/raj-kachori-chaat-recipe-1-500x500.jpg",
+        "categoryName" : "Kachori"
+    }
+]

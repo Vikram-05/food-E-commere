@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Pacifico&family=Sixtyfour+Convergence&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+html{
+    font-size: 82.6%;
+}
+.main_contaner{
+    height:100vh;
+    max-width: 1400px;
+    background: url(../public/image/BG.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    background-color: rgba(2, 2, 2, 0.152);
+    backdrop-filter: blur(4px);
+    padding: 3rem;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 50px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    animation: down 1s  ease;
+    transition: all ease 0.02s;
+}
+.message{
+    color: rgba(0, 0, 0, 0.666);
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 5rem;
+}
+.error404{
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 13rem;
+    padding: 0.5rem;
+    font-family: "Bebas Neue", sans-serif;
+    letter-spacing: 0.5rem;
+}
+.link_error{
+    background-color: rgb(255, 145, 0);
+    color: rgb(0, 0, 0);
+    border: solid 0.1rem rgba(0, 0, 0, 0.8);
+    border-radius: 30px;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    font-family: "Kanit", sans-serif;
+    transition: all ease 0.2s;
+}
+.link_error:hover{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 145, 0);
+}
+@media(width<680px){
+    html{
+        font-size: 65%;
+    }
+    .link_error{
+        font-size: 1.5rem;
+    }
+
+}
+@media(width<530px){
+    html{
+        font-size: 50%;
+    }
+    .link_error{
+        font-size: 2rem;
+    }
+}
+@media(width<420px){
+    html{
+        font-size: 40%;
+    }
+    .link_error{
+        font-size: 2.5rem;
+    }
+    .container{
+        width: 100%;
+        border-radius: 0%;
+        height: 50%;
+    }
+}
+@keyframes down{
+    from{
+        transform:translateY(-100%);
+    }
+    to{
+        transform:translateY(0%);
+        
+    }
+}

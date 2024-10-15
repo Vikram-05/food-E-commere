@@ -1,0 +1,831 @@
+
+
+[
+    {
+        "img" : "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=80&w=1981&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "itemName" : "pizza",
+        "discription" : "Hot and Fresh",
+        "price" : "5",
+        "gst" : "0.2",
+        "delivery" : "Free",
+        "discount" : "0.1",
+        "category" : "veg",
+        "taste" : "Salty",
+        "quantity" : "0",
+        "maxQuantity" : "5",
+        "id" : "0",
+        "rating" : "4.6",
+        "property" : ["Non-Veg","spicy","healthy","Fresh","Better Quantity"],
+        "ingredient": [
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            }
+            
+        ]
+    },
+    {
+        "img" : "https://img.freepik.com/free-photo/top-view-georgian-homemade-round-cheese-cake-sliced_140725-12556.jpg?w=740&t=st=1728558122~exp=1728558722~hmac=49ff6735854a7ec21d5a4fc41dad9ced962fb67adf923eebb2169a9f3bd14b55",
+        "itemName" : "Parantha",
+        "discription" : "north-Indian breakfast option",
+        "longDiscription" : "north-Indian breakfast option north-Indian breakfast option,north-Indian breakfast option",
+        "price" : "7",
+        "gst" : "0.2",
+        "delivery" : "Free",
+        "discount" : "0.1",
+        "category" : "veg",
+        "taste" : "Salty",
+        "quantity" : "0",
+        "maxQuantity" : "5",
+        "id" : "1",
+        "rating" : "4.1",
+        "property" : ["Non-Veg","spicy","healthy","Fresh","Better Quantity"],
+        "ingredient": [
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            }
+            
+        ]
+        
+    },
+    {
+        "img" : "https://img.freepik.com/premium-photo/chole-bhature-spicy-chick-peas-curry-also-known-as-chole-channa-masala-is-traditional-north-indian-main-course-recipe-usually-served-with-fried-puri-bhature-selective-focus_726363-293.jpg?w=1380",
+        "itemName" : "Chole Bhature",
+        "discription" : "Punjab’s origin",
+        "longDiscription" : "north-Indian breakfast option north-Indian breakfast option,north-Indian breakfast option",
+        "price" : "3",
+        "gst" : "0.2",
+        "delivery" : "Free",
+        "discount" : "0.1",
+        "category" : "veg",
+        "taste" : "Salty",
+        "quantity" : "0",
+        "maxQuantity" : "5",
+        "id" : "2",
+        "rating" : "4.4",
+        "property" : ["Non-Veg","spicy","healthy","Fresh","Better Quantity"],
+        "ingredient": [
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            }
+            
+        ]
+    },
+    {
+        "img" : "https://as2.ftcdn.net/v2/jpg/08/13/33/79/1000_F_813337958_fwZW7qTSMb21JzKsKEkKXsxSgZN4y9IT.jpg",
+        "itemName" : "Dhokla",
+        "discription" : "Gujarati famous dish",
+        "longDiscription" : "north-Indian breakfast option north-Indian breakfast option,north-Indian breakfast option",
+        "price" : "15",
+        "gst" : "0.2",
+        "delivery" : "Free",
+        "discount" : "0.1",
+        "category" : "veg",
+        "taste" : "Salty",
+        "quantity" : "0",
+        "maxQuantity" : "5",
+        "id" : "3",
+        "rating" : "4.5",
+        "property" : ["Non-Veg","spicy","healthy","Fresh","Better Quantity"],
+        "ingredient": [
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            }
+            
+        ]
+    },
+    {
+        "img" : "https://img.freepik.com/premium-photo/delicious-indian-cuisine-egg-curry-recipe-with-boiled-eggs_136354-18486.jpg?w=740",
+        "itemName" : "Egg Curry ",
+        "discription" : "Delicious and flavorsome meal",
+        "longDiscription" : "north-Indian breakfast option north-Indian breakfast option,north-Indian breakfast option",
+        "price" : "12",
+        "gst" : "0.2",
+        "delivery" : "Free",
+        "discount" : "0.1",
+        "category" : "veg",
+        "taste" : "Salty",
+        "quantity" : "0",
+        "maxQuantity" : "5",
+        "id" : "4",
+        "rating" : "4.2",
+        "property" : ["Non-Veg","spicy","healthy","Fresh","Better Quantity"],
+        "ingredient": [
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            }
+            
+        ]
+    },
+    {
+        "img" : "https://saibabatravels.com/wp-content/uploads/2020/01/falooda-photo.jpg",
+        "itemName" : "Falooda",
+        "discription" : "vermicelli and is topped with nuts",
+        "longDiscription" : "north-Indian breakfast option north-Indian breakfast option,north-Indian breakfast option",
+        "price" : "2",
+        "gst" : "0.2",
+        "delivery" : "Free",
+        "discount" : "0.1",
+        "category" : "veg",
+        "taste" : "Salty",
+        "quantity" : "0",
+        "maxQuantity" : "5",
+        "id" : "5",
+        "rating" : "4.8",
+        "property" : ["Non-Veg","spicy","healthy","Fresh","Better Quantity"],
+        "ingredient": [
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            }
+            
+        ]
+        
+    },
+    {
+        "img" : "https://as2.ftcdn.net/v2/jpg/06/80/46/09/1000_F_680460912_UG3v72Xo7kBJUVWnHjMpkhGaSVWgsOHk.jpg",
+        "itemName" : "Gol Gappe",
+        "discription" : "Fried ball filled with flavored water",
+        "longDiscription" : "north-Indian breakfast option north-Indian breakfast option,north-Indian breakfast option",
+        "price" : "1",
+        "gst" : "0.2",
+        "delivery" : "Free",
+        "discount" : "0.1",
+        "category" : "veg",
+        "taste" : "Salty",
+        "quantity" : "0",
+        "maxQuantity" : "5",
+        "id" : "6",
+        "rating" : "4.1",
+        "property" : ["Non-Veg","spicy","healthy","Fresh","Better Quantity"],
+        "ingredient": [
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            }
+            
+        ]
+    },
+    {
+        "img" : "https://media.istockphoto.com/id/666999640/photo/indian-sweet-jalebi.jpg?s=612x612&w=0&k=20&c=HThX0goLh4odAYAErT_jHp6WwqkvEVSn6efONUUCqxA=",
+        "itemName" : "Jalebi",
+        "discription" : "Sweetened cuisine",
+        "longDiscription" : "north-Indian breakfast option north-Indian breakfast option,north-Indian breakfast option",
+        "price" : "2",
+        "gst" : "0.2",
+        "delivery" : "Free",
+        "discount" : "0.1",
+        "category" : "veg",
+        "taste" : "Salty",
+        "quantity" : "0",
+        "maxQuantity" : "5",
+        "id" : "7",
+        "rating" : "4.0",
+        "property" : ["Non-Veg","spicy","healthy","Fresh","Better Quantity"],
+        "ingredient": [
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            }
+            
+        ]
+    },
+    {
+        "img" : "https://img.freepik.com/free-photo/delicious-spanish-tortilla-still-life_23-2150246054.jpg?w=360&t=st=1728559147~exp=1728559747~hmac=96275f6e51bed456c9a6339c1b6f1e5dc8826665b8b7a154bf1476f44eb06599",
+        "itemName" : "Kachori",
+        "discription" : "Indian delish",
+        "longDiscription" : "north-Indian breakfast option north-Indian breakfast option,north-Indian breakfast option",
+        "price" : "3",
+        "gst" : "0.2",
+        "delivery" : "Free",
+        "discount" : "0.1",
+        "category" : "veg",
+        "taste" : "Salty",
+        "quantity" : "0",
+        "maxQuantity" : "5",
+        "id" : "8",
+        "rating" : "4.0",
+        "property" : ["Non-Veg","spicy","healthy","Fresh","Better Quantity"],
+        "ingredient": [
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            }
+            
+        ]
+    },
+    {
+        "img" : "https://www.cookingcarnival.com/wp-content/uploads/2021/08/Matar-mushroom-4.jpg",
+        "itemName" : "Mushroom Matar",
+        "discription" : "Fix your winter protein",
+        "longDiscription" : "north-Indian breakfast option north-Indian breakfast option,north-Indian breakfast option",
+        "price" : "9",
+        "gst" : "0.2",
+        "delivery" : "Free",
+        "discount" : "0.1",
+        "category" : "veg",
+        "taste" : "Salty",
+        "quantity" : "0",
+        "maxQuantity" : "5",
+        "id" : "9",
+        "rating" : "3.9",
+        "property" : ["Non-Veg","spicy","healthy","Fresh","Better Quantity"],
+        "ingredient": [
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            }
+            
+        ]
+    },
+    {
+        "img" : "https://img.freepik.com/free-photo/front-view-fried-cutlets-with-cooked-rice-dark-surface-dish-rissole-meat_140725-81950.jpg?w=996&t=st=1728559258~exp=1728559858~hmac=baf2246527d7bea2f42eb099664c25cf04d6a988bb654cb3f8a234aa6af2f9f0",
+        "itemName" : "Obbattu",
+        "discription" : "Maharashtra and southern Indian",
+        "longDiscription" : "north-Indian breakfast option north-Indian breakfast option,north-Indian breakfast option",
+        "price" : "5",
+        "gst" : "0.2",
+        "delivery" : "Free",
+        "discount" : "0.1",
+        "category" : "veg",
+        "taste" : "Salty",
+        "quantity" : "0",
+        "maxQuantity" : "5",
+        "id" : "10",
+        "rating" : "3.6",
+        "property" : ["Non-Veg","spicy","healthy","Fresh","Better Quantity"],
+        "ingredient": [
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            }
+            
+        ]
+    },
+    {
+        "img" : "https://www.tamarindnthyme.com/wp-content/uploads/2022/06/Untitled-design-108-1080x1080.jpg",
+        "itemName" : "Do Pyaza",
+        "discription" : "Best Indian dishes",
+        "longDiscription" : "north-Indian breakfast option north-Indian breakfast option,north-Indian breakfast option",
+        "price" : "7",
+        "gst" : "0.2",
+        "delivery" : "Free",
+        "discount" : "0.1",
+        "category" : "veg",
+        "taste" : "Salty",
+        "quantity" : "0",
+        "maxQuantity" : "5",
+        "id" : "11",
+        "rating" : "4.9",
+        "property" : ["Non-Veg","spicy","healthy","Fresh","Better Quantity"],
+        "ingredient": [
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            }
+            
+        ]
+    },
+    {
+        "img" : "https://www.easycookingwithmolly.com/wp-content/uploads/2018/01/vegetable-quinoa-pulao-recipe.jpg",
+        "itemName" : "Quinoa Pulao",
+        "discription" : "Quinoa Pulao is the delish",
+        "longDiscription" : "north-Indian breakfast option north-Indian breakfast option,north-Indian breakfast option",
+        "price" : "12",
+        "gst" : "0.2",
+        "delivery" : "Free",
+        "discount" : "0.1",
+        "category" : "veg",
+        "taste" : "Salty",
+        "quantity" : "0",
+        "maxQuantity" : "5",
+        "id" : "12",
+        "rating" : "4.8",
+        "property" : ["Non-Veg","spicy","healthy","Fresh","Better Quantity"],
+        "ingredient": [
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            }
+            
+        ]
+    },
+    {
+        "img" : "https://static.wixstatic.com/media/5211d0_0d7b3dfdcf1e4cc4a7a0b611744115b3~mv2.jpg/v1/fill/w_980,h_838,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/5211d0_0d7b3dfdcf1e4cc4a7a0b611744115b3~mv2.jpg",
+        "itemName" : "Rajma",
+        "discription" : "popularly known as Rajma in India",
+        "longDiscription" : "north-Indian breakfast option north-Indian breakfast option,north-Indian breakfast option",
+        "price" : "5",
+        "gst" : "0.2",
+        "delivery" : "Free",
+        "discount" : "0.1",
+        "category" : "veg",
+        "taste" : "Salty",
+        "quantity" : "0",
+        "maxQuantity" : "5",
+        "id" : "13",
+        "rating" : "3.6",
+        "property" : ["Non-Veg","spicy","healthy","Fresh","Better Quantity"],
+        "ingredient": [
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            }
+            
+        ]
+    },
+    {
+        "img" : "https://res.cloudinary.com/domxusp4k/image/upload/q_auto:low/v1/Pataks_USA/Recipes/Recipe/homemade-vegetable-samosas.jpg",
+        "itemName" : "Samosa",
+        "discription" : "Covering and masala potato",
+        "longDiscription" : "north-Indian breakfast option north-Indian breakfast option,north-Indian breakfast option",
+        "price" : "7",
+        "gst" : "0.2",
+        "delivery" : "Free",
+        "discount" : "0.1",
+        "category" : "veg",
+        "taste" : "Salty",
+        "quantity" : "0",
+        "maxQuantity" : "5",
+        "id" : "14",
+        "rating" : "4.2",
+        "property" : ["Non-Veg","spicy","healthy","Fresh","Better Quantity"],
+        "ingredient": [
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            },
+            {
+                "img1" : "http://upload.wikimedia.org/wikipedia/commons/8/89/Swiss_cheese_cubes.jpg",
+                "ingriName" : "Cheese",
+                "weight" : "20gm"
+            }
+            
+        ]
+    }
+    
+]

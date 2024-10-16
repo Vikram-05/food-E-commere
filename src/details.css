@@ -1,6 +1,6 @@
 
 
-
+/* vikram */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 *{
     margin: 0;
@@ -333,9 +333,9 @@ body{
     color: orangered;
 }
 @media(width<1358px) {
-    html{
+    /* html{
         font-size: 90%;
-    }
+    } */
 }
 @media(width<1135px) {
     .productname{
@@ -354,6 +354,7 @@ body{
         width: 100%;
         height: 50%;
         border-radius: 2rem 2rem 0 0;
+        /* border: 2px solid red; */
 
     }
     .productdetails{
@@ -363,59 +364,20 @@ body{
     }
 }
 @media(width<710px) {
-    html{
+    /* html{
         font-size: 95%;
-    }
+    } */
     
 }
+
 @media(width<630px) {
-    html{
-        font-size: 95%;
-    }
-    .main{
-        flex-direction: column;
-        height: auto;
-        /* overflow-y: scroll; */
-    }
-    .product{
-        flex-direction: column;
-    }
-    .purchase{
-        width: 95%;
-        height: 90%;
-        align-self: center;
-    }
-    #ProductImage{
-        width: 100%;
-        height: 50%;
-        border-radius: 2rem 2rem 0 0;
-    }
-    .productdetails{
-        width: 100%;
-        height: 50%;
-        border-radius: 0 0 2rem 2rem;
-    }
-    .ingredients{
-        height: auto;
-        width: 95%;
-        align-self: center;
-    }
-    .ingrlist{
-        
-    }
-    .oneingredient{
-        /* border: 2px solid red; */
-        height: 11rem;
-    }
-}
-@media(width<630px) {
-    html{
+    /* html{
         font-size: 90%;
         
-    }
+    } */
     .main{
         flex-direction: column;
-        height: auto;
+        /* height: auto; */
         /* overflow-y: scroll; */
     }
     .product{
@@ -423,20 +385,29 @@ body{
         flex-direction: column;
         box-shadow: none;
     }
+    .productname{
+        padding-left: 1rem;
+        font-size:3.5rem;
+    }
     .properties{
+        
         height: auto;
         max-height: none;
     }
+    .prop{
+        font-size: 1.5rem;
+    }
     .purchase{
         width: 100vw;
-        height: 90%;
+        height: 100%;
         align-self: center;
         margin: 0;
         
     }
     #ProductImage{
         width: 100%;
-        height: 50%;
+        height: 40%;
+        
         border-radius:0;
     }
     .productdetails{
@@ -450,12 +421,27 @@ body{
         align-self: center;
         border-radius: 0;
     }
+    .oneingredient{
+        /* border: 2px solid red; */
+        height: 11rem;
+    }
+    .despara{
+        font-size: 1.2rem;
+    }
+    .item{
+        & .itemname{
+            font-size: 2rem;
+        }
+        & .itemwt{
+            font-size: 1.5rem;
+        }
+    }
 
 }
 @media(width<350px){
     .buttons{
-        font-size: .8rem;
-        padding: 0;
+        font-size: 1.3rem;
+        padding: 0.2rem 1.5rem;
     }
     .buybutton{
         padding: 0.3rem;

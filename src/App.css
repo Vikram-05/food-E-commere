@@ -834,6 +834,7 @@ nav {
         }
 
     }
+    
 }
 
 .active.active .ic,
@@ -963,7 +964,8 @@ h2 {
     justify-content: center;
     flex-wrap: wrap;
     height: auto;
-    gap: 3rem;
+    gap: 1rem;
+    /* border: 10px solid red; */
 
     & .itemCon {
         margin: 1rem;
@@ -1000,7 +1002,7 @@ h2 {
             border-radius: 0 0 20px 20px;
 
             & h2 {
-                font: 1.8rem;
+                font-size: 1.8rem;
                 font-weight: bolder;
                 padding-bottom: 5px;
                 color: var(--dark-black);
@@ -1017,6 +1019,7 @@ h2 {
                 
 
                 & span {
+                    font-size: 1rem;
                     line-height: 1.3rem;
                     color: var(--border-color);
                     text-transform: capitalize;
@@ -1371,7 +1374,7 @@ h2 {
         margin-top: 5rem;
     }
 }
-@media(width<400px){
+@media(width<300px){
     .footer{
         flex-wrap: wrap;
 

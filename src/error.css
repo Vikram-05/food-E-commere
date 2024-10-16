@@ -76,7 +76,7 @@ html{
     }
 
 }
-@media(width<530px){
+@media(width<530px){    
     html{
         font-size: 50%;
     }
@@ -85,9 +85,8 @@ html{
     }
 }
 @media(width<420px){
-    html{
-        font-size: 40%;
-    }
+   
+    
     .link_error{
         font-size: 2.5rem;
     }

@@ -70,7 +70,7 @@ span{
             align-items: center;
             justify-content: center;
             flex-direction: column;
-            padding:0 2rem;
+            padding:0 1rem;
             padding-bottom: 5rem;
             contain: content;
             
@@ -100,7 +100,7 @@ span{
 
                         
                         &:nth-child(1){
-                            margin-left:1rem;
+                            margin-left:3rem;
                         }
                         &:nth-child(2){
                             margin-left: -4rem;
@@ -141,7 +141,7 @@ span{
          margin: 0.2rem 0;
 
         & .imageDet{
-            width: 30%;
+            width: 40%;
             height: 100%;
             /* border: 2px solid red; */
             display: flex;
@@ -152,10 +152,10 @@ span{
             & .image_con{
                 /* border: 2px solid blue; */
                 background-color: rgba(192, 192, 192, 0.231);
-                min-width: 50%;
+                width: 60%;
                 aspect-ratio: 1;
                 border-radius: 15px;
-                height: 100%;
+                height: 95%;
                 overflow: hidden;
 
                 & img{
@@ -175,10 +175,10 @@ span{
                 & span{
                     color: rgb(92, 92, 92);
                     font-weight: 600;
-                    font-size: 0.8rem;
+                    font-size: 1rem;
                 }
                 & h2{
-                    font-size: 1.2rem;
+                    font-size: 1.5rem;
                 }
             }
         }
@@ -194,7 +194,7 @@ span{
             & .each_price{
 
                 & span{
-                    font-size: 1.2rem;
+                    font-size: 1.5rem;
                     font-weight: bolder;
 
                     
@@ -459,11 +459,16 @@ span{
     .right_cart_contaner{
         top: 5px;
     }
+    .list_items{
+        & li{
+            height: 15rem;
+        }
+    }
 }
 @media(width<850px){
-    html{
+    /* html{
         font-size: 62%;
-    }
+    } */
     
 }
 @media(width<650px){
@@ -488,9 +493,5 @@ span{
     html{
         font-size: 45%;
     }
-    .list_items{
-        & li{
-            height: 10rem;
-        }
-    }
+    
 }
